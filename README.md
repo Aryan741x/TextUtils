@@ -1,8 +1,5 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+=======
+# TextUtils
+TextUtils: A versatile text manipulation tool with support for capitalizing, converting to lowercase, and reversing text. Features both dark and light modes for optimal viewing comfort. Perfect for writers, editors, and students.
+>>>>>>> 1a80ffe59276c4fd63fd6ce0118a1e949f669328
